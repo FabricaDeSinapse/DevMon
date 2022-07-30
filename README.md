@@ -4,4 +4,4 @@ DevMon é um projeto com o objetivo de ensinar devs a programarem uma solução 
 
 O universo do DevMon é habitado por criaturas mágicas que surgem a partir de alguns ovos místicos, encontrados em diversos locais da natureza. Para que as criaturas evoluam, é necessário cuidar delas, brincando, alimentando e treinando.
 
-![DevMon - Logo](imagens/logo/logo_full.png)
+![DevMon - Logo](logo_full.png)
